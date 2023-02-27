@@ -38,6 +38,6 @@ background: aliceblue;
 
 @media (max-width: 480px) {
     * {
-        max-width: 480px;
+        max-width: 400px;
     }
 }
