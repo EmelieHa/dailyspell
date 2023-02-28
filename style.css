@@ -53,6 +53,11 @@ background: aliceblue;
     color: white;
 }
 
+#spells {
+    width: 50%;
+    float: right;
+}
+
 @media (max-width: 480px) {
     * {
         max-width: 380px;
