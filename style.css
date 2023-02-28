@@ -1,9 +1,11 @@
-* {
+body {
     background-image: url('space-art-gf699d3888_1920.jpg');
-    background-repeat: round;
+background-repeat: round;
 }
 
-
+body {
+  
+}
 
 button {
     width: 250px;
@@ -11,6 +13,7 @@ button {
     border-radius: 30%;
     color: white;
     background: midnightblue;
+    margin-left: 200px;
     font-size: 35px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
@@ -36,6 +39,18 @@ font-size: 40px;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 text-align: center;
 background: aliceblue;
+}
+
+#charsName {
+    font-size: 25px;
+    background: none;
+    color: white;
+}
+
+#charsNick {
+    font-size: 25px;
+    background-none;
+    color: white;
 }
 
 @media (max-width: 480px) {
